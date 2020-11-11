@@ -7,11 +7,8 @@ package modelo;
 
 /**
  *
- * @author f_fig
+ * @author samuel
  */
-public class AlumnoDTO extends User{
-    
-    
-    
+public class User {
     
 }

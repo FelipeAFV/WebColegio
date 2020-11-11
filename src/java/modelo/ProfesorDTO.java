@@ -9,10 +9,10 @@ package modelo;
  *
  * @author samuel
  */
-public class ProfesorDTO {
-    private int id;
-    private String username;
-    private String passwoword;
+public class ProfesorDTO extends User{
+    
+    
+    
     private String name;
     private String last_name;
     private String email;
@@ -22,29 +22,7 @@ public class ProfesorDTO {
         
     }
 
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public String getUsername() {
-        return username;
-    }
-
-    public void setUsername(String username) {
-        this.username = username;
-    }
-
-    public String getPasswoword() {
-        return passwoword;
-    }
-
-    public void setPasswoword(String passwoword) {
-        this.passwoword = passwoword;
-    }
+    
 
     public String getName() {
         return name;
