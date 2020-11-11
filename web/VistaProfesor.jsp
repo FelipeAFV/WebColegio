@@ -12,6 +12,17 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Sistema profesor</h1>
+        <form method="get" action="ListarAlumnoServlet">
+            <input id="listarAlumnosp" type="submit" value="Listar Alumnos"></input>
+        </form>
+        </br>
+        <form method="get" action="ListarProfesoresServlet">
+            <input id="listarProfesoresp" type="submit" value="Listar Profesores"></input>
+        </form>
+        </br>
+        <form method="get" action="ListarNotasServlet">
+            <input id="registrarnotas" type="submit" value="Registrar Notas"></input>
+        </form>
     </body>
 </html>
