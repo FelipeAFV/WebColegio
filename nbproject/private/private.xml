@@ -3,7 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/f_fig/Documents/NetBeansProjects/WebColegio/web/index.html</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/web/VistaLogin.jsp</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/web/index.html</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/modelo/ProfesorDTO.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/modelo/Sesion.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/controlador/ListarNotasServlet.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/dao/AlumnoBBDD.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/modelo/Conexion.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/web/VistaProfesor.jsp</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/modelo/User.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/modelo/AlumnoDTO.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/modelo/EnroladoDTO.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/web/VistaAlumno.jsp</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/controlador/LoginServlet.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/controlador/ListarAlumnosServlet.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/web/testview.jsp</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/modelo/NotaDTO.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/controlador/profserv.java</file>
+            <file>file:/C:/Users/samuel/Documents/NetBeansProjects/WebColegio/src/java/controlador/ListarProfesoresServlet.java</file>
         </group>
     </open-files>
 </project-private>
